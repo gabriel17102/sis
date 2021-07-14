@@ -13,5 +13,6 @@ las cuales con ellas puedes acceder al dom o facilitar las llamadas ajax:
 
 de esta manera tienes una forma de acceso a la etiqueta span del dom. usa document.querySelector para acceder al dom.
 
-  # Como usar
-  la
+## Como usar
+
+  [ir a...]()
