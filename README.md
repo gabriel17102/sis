@@ -15,4 +15,4 @@ de esta manera tienes una forma de acceso a la etiqueta span del dom. usa docume
 
 ## Como usar
 
-  [ir a...](docs/ComoUsar.md)
+  [ir a...](ComoUsar.md)
