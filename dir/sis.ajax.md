@@ -4,7 +4,11 @@ ajax es una forma de obtener informacion de una url sin tener que recargar la pa
 
 ## Parametros
   ``` OPTIONS ```
+  
+  
     tiene que ser un objeto con los parametros: url,type,data,success,error,progress,complete,dataType
+    
+    
     ```
       sis.ajax({
         url:"index.html", // url del archivo a obtener informacion
