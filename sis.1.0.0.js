@@ -724,6 +724,7 @@ var $,sis;
 					window.scrollTo(parseInts(l.css("left")),parseInts(l.css("top")))
 				},1)
 				animate.onfinish = function(){
+					window.scrollTo(obj.left,obj.top)
 					sis("body").remove(l);
 					clearInterval(interval);
 				}
