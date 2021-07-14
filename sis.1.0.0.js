@@ -262,7 +262,7 @@ var $,sis;
 			eA:function(g,e){
 				for(var i = 0; i < g.length; i++){
 					var k = e.bind(g[i]);
-					e(i+1);
+					k(i+1);
 				}
 			},
 			val:function(g,e){
@@ -719,7 +719,7 @@ var $,sis;
 					top:obj.top+"px"
 				}
 				],{duration:obj.duration});
-				setInterval(()=>{
+				var interval = setInterval(()=>{
 					animate.commitStyles();
 					window.scrollTo(parseInts(l.css("left")),parseInts(l.css("top")))
 				},1)
