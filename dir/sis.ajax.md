@@ -22,5 +22,4 @@ ajax es una forma de obtener informacion de una url sin tener que recargar la pa
        progress:()=>{} // progreso de el ajax
      })
    ```
-   ``` url ```
-     url a enviar la peticion HTTP
+
