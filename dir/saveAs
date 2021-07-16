@@ -1,0 +1,8 @@
+## saveAs
+  le descarga archivo al usuario inmediatamente
+  ```
+    var content = $.saveAs({
+      url:"file.txt",
+      name:"guardado.txt" 
+    })
+  ```
