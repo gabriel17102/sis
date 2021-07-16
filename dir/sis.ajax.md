@@ -3,6 +3,7 @@
 ajax es una forma de obtener informacion de una url sin tener que recargar la pagina completa.
 
 ## Parametros
+
   ``` OPTIONS ```
   
   
