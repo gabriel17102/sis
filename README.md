@@ -16,4 +16,5 @@ de esta manera tienes una forma de acceso a la etiqueta span del dom. usa docume
 ## Como usar
 
   [ir a ayuda...](dir/)
+  
   [Instalar](vertions/)
